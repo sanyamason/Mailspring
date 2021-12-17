@@ -93,7 +93,7 @@
     "targz": "^1.0.1",
     "temp": "0.8.x",
     "typescript": "3.9.7",
-    "underscore": "1.8.x"
+    "underscore": "1.13.1"
   },
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
