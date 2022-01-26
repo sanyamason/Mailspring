@@ -74,7 +74,7 @@
     "temp": "^0.8",
     "tld": "^0.0.2",
     "underscore": "1.8.x",
-    "underscore.string": "^3.3.5",
+    "underscore.string": "^3.3.6",
     "utf7": "^1.0.2",
     "uuid": "^3.0.0",
     "vcf": "^2.0.5",
